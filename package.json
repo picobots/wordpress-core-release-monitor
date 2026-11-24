@@ -1,0 +1,13 @@
+{
+  "name": "wordpress-core-release-monitor",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Tests for the WordPress Core Release Monitor Google Apps Script",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
